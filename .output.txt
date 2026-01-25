@@ -1,0 +1,524 @@
+[
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      0,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      0,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      0,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      0,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      1,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      1,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      1,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      1,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      2,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      2,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      2,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      2,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      3,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      3,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      3,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      3,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      4,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      4,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      4,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      4,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      5,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      5,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      5,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      5,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      6,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      6,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      6,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      6,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      7,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      7,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      7,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      7,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      8,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      8,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      8,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      8,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      9,
+      "node",
+      "fullName"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      9,
+      "node",
+      "age"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      9,
+      "node",
+      "nationality"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  },
+  {
+    "message": "Requester forbidden to make query",
+    "path": [
+      "players",
+      "edges",
+      9,
+      "node",
+      "imageUrl"
+    ],
+    "extensions": {
+      "errorType": "PERMISSION_DENIED"
+    }
+  }
+]
+Players for team 83:
+undefined
